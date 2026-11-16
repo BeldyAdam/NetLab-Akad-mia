@@ -1,0 +1,6 @@
+{
+  "name": "NetLab Akadémia",
+  "description": "Offline magyar nyelvű hálózati oktatóalkalmazás interaktív szimulációkkal, kvízekkel, szótárral és Cisco Packet Tracer laborokkal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
